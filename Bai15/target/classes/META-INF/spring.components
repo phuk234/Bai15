@@ -1,0 +1,5 @@
+com.se.config.SpringConfig=org.springframework.stereotype.Component
+com.se.controller.HomeController=org.springframework.stereotype.Component
+com.se.dao.RiversideCarDaoImpl=org.springframework.stereotype.Component
+com.se.entity.RiversideCar=javax.persistence.Entity,javax.persistence.Table
+com.se.service.RiversideCarServiceImpl=org.springframework.stereotype.Component
